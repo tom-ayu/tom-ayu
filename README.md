@@ -2,19 +2,10 @@
 
 ---
 
-### languages
 [![My Skills](https://skillicons.dev/icons?i=c,cs,java,python)](https://skillicons.dev)
-
-### front
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap)](https://skillicons.dev)
-
-### db
 [![My Skills](https://skillicons.dev/icons?i=mssql,mongodb)](https://skillicons.dev)
-
-### ide
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,idea)](https://skillicons.dev)
-
-### modelling/design
 [![My Skills](https://skillicons.dev/icons?i=figma,ps,blender)](https://skillicons.dev)
 
 ---
