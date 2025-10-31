@@ -12,10 +12,13 @@
 
 ---
 
-![Tom Ayu's GitHub stats](https://github-readme-stats.vercel.app/api?username=tom-ayu&show_icons=true&theme=tokyonight)
+<div align="center">
+  
+![stats](https://github-readme-stats.vercel.app/api?username=tom-ayu&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tom-ayu&layout=compact&theme=tokyonight)
+![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tom-ayu&layout=compact&theme=tokyonight)
 
+</div>
 
 <!--
 **tom-ayu/tom-ayu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
