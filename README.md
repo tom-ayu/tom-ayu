@@ -6,7 +6,6 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,sass)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,idea,docker)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=figma,ps,blender)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=spring,flask,dotnet)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=figma,ps,blender)](https://skillicons.dev)
